@@ -1,1 +1,2 @@
 # solana
+GTokenTool是行业领先的Solana一键发币平台，支持Sol发币创建合约、Sol批量转账、创建Openbook市场ID等功能
